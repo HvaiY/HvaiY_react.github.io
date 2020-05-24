@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/Settings/index.js"],"names":["Settings","Component"],"mappings":"2MAEqBA,E,uKAEjB,OAAO,uD,GAF2BC","file":"static/js/19.d3312b50.chunk.js","sourcesContent":["import React, { Component } from \"react\";\r\n\r\nexport default class Settings extends Component {\r\n  render() {\r\n    return <div>设置页</div>;\r\n  }\r\n}\r\n"],"sourceRoot":""}

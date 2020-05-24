@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/NotFound/index.js"],"names":["NotFound","Component"],"mappings":"2MAEqBA,E,uKAEjB,OAAO,wC,GAF2BC","file":"static/js/17.0ee3d132.chunk.js","sourcesContent":["import React, { Component } from \"react\";\r\n\r\nexport default class NotFound extends Component {\r\n  render() {\r\n    return <div>404</div>;\r\n  }\r\n}\r\n"],"sourceRoot":""}

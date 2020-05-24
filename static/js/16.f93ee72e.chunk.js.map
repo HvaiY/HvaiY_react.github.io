@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/NoAuth/index.js"],"names":["NoAuth","Component"],"mappings":"2MAEqBA,E,uKAEjB,OAAO,iG,GAFyBC","file":"static/js/16.f93ee72e.chunk.js","sourcesContent":["import React, { Component } from \"react\";\r\n\r\nexport default class NoAuth extends Component {\r\n  render() {\r\n    return <div>你没有权限查看此页面</div>;\r\n  }\r\n}\r\n"],"sourceRoot":""}
